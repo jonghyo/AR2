@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AR2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">2397361700288012</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb2397361700288012</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook_f1gender">Logged in using Facebook</string>
+</resources>

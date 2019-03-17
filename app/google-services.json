@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218217114230",
+    "firebase_url": "https://ka1ryu.firebaseio.com",
+    "project_id": "ka1ryu",
+    "storage_bucket": "ka1ryu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218217114230:android:0587a82c60ed8a2a",
+        "android_client_info": {
+          "package_name": "net.kboy.sceneformsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218217114230-no8pm6qti4294npf4mi0jtcun2cv2vnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.kboy.sceneformsample",
+            "certificate_hash": "0bffe0cd431f4dd1c3a0900dab37a6a6014a5583"
+          }
+        },
+        {
+          "client_id": "218217114230-8kd01redknq3jrsu6kktnogmtutbg317.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUq4XpmBzZlsy3ywpogYuhL71GbxShjxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218217114230-8kd01redknq3jrsu6kktnogmtutbg317.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
