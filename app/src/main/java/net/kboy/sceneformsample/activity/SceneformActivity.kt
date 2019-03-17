@@ -62,7 +62,7 @@ class SceneformActivity : AppCompatActivity() {
         val http = HttpUtil()
         val url = http.httpPOST(url, lanlon).await()
         selectedObject = Uri.parse(url)
-        Toast.makeText(context, "モデルの取得が完了しました" + url, Toast.LENGTH_LONG).show()
+        Toast.makeText(context, "モデルの取得が完了しました", Toast.LENGTH_LONG).show()
     })
 
     private fun placeObject(fragment: ArFragment, anchor: Anchor, model: Uri) {

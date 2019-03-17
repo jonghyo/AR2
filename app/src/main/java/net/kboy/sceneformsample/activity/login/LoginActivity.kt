@@ -16,7 +16,7 @@ class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         // splash
         try {
-            Thread.sleep(500)
+            Thread.sleep(1000)
 
         } catch (e: InterruptedException) {
             e.printStackTrace()
